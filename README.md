@@ -23,7 +23,7 @@ To create a 3D model from given orthographic projection.
 
 5.	Use inspect feature to measure the dimensions of sketch.
 
-![image](https://user-images.githubusercontent.com/113594316/198551270-45875855-43a7-4471-af35-bd10cd9dd153.png)
+![Screenshot (14)](https://github.com/mukeshkumar1110/EX.-No.-3.1.-CREATE-3D-MODEL-FROM-ORTHOGRAPHIC-PROJECTION/assets/152305679/30fb6ac0-4ca0-4e7a-8b02-49a7fe7885d6)
 
 6.	After finishing the sketch use finish sketch option to finalize the sketch.
 
